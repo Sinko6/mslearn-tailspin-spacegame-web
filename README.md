@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/Tailspin9/Space%20Game%20-web/_apis/build/status/Sinko6.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin9/Space%20Game%20-web/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/Tailspin9/Space%20Game%20-web/_apis/build/status/Sinko6.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin9/Space%20Game%20-web/_build/latest?definitionId=1&branchName=master)[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-9&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-9)
 
 # Contributing
 
